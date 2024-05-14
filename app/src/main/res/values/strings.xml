@@ -1,0 +1,45 @@
+<resources>
+    <string-array name="albums">
+        <item>Showbiz</item>
+        <item>Origin of Symmetry</item>
+        <item>Absolution</item>
+        <item>Black Holes and Revelations</item>
+        <item>The Resistance</item>
+        <item>The 2nd Law</item>
+        <item>Simulation Theory</item>
+        <item>Will of the People</item>
+    </string-array>
+
+    <string-array name="showbiz">
+        <item>Sunburn</item>
+        <item>Muscle Museum</item>
+        <item>Fillip</item>
+        <item>Falling Down</item>
+        <item>Cave</item>
+        <item>Showbiz</item>
+        <item>Unintended</item>
+        <item>Uno</item>
+        <item>Sober</item>
+        <item>Escape</item>
+        <item>Overdue</item>
+        <item>Hate This and I\'ll Love You</item>
+    </string-array>
+
+    <string-array name="origin_of_symmetry">
+        <item>New Born</item>
+        <item>Bliss</item>
+        <item>Space Dementia</item>
+        <item>Hyper Music</item>
+        <item>Plug In Baby</item>
+        <item>Citizen Erased</item>
+        <item>Micro Cuts</item>
+        <item>Screenager</item>
+        <item>Darkshines</item>
+        <item>Feeling Good</item>
+        <item>Megalomania</item>
+    </string-array>
+
+    <string name="app_name">prac5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
